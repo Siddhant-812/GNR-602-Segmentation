@@ -1,7 +1,7 @@
 ## GNR-602 | Segment an Image using Dynamic thresholding with basic segmentation using Entropic Thresholding.
 Code files-
 
- 1)Colab notebook implementing entropic thresholding and analysing it in various settings with a case study using DeepGlobe-2018 dataset. 
+ 1) Colab notebook implementing entropic thresholding and analysing it in various settings with a case study using DeepGlobe-2018 dataset. 
  
  2) A streamlit app to visualise how the segmentation is done and the user can upload any image to see comparison with Global and Dynamic Segmentation.
 
